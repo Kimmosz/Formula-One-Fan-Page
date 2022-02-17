@@ -3,14 +3,14 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="FormulaOneFanPage/Views/Home/Index.cshtml">
     <Files>
       <File FileName="FormulaOneFanPage/Data/DbInitializer.cs" Line="24" Column="45" IsPinned="True" />
-      <File FileName="FormulaOneFanPage/Views/Shared/_Layout.cshtml" Line="11" Column="13" />
+      <File FileName="FormulaOneFanPage/Views/Shared/_Layout.cshtml" />
       <File FileName="FormulaOneFanPage/Views/Home/Index.cshtml" Line="13" Column="30" />
-      <File FileName="FormulaOneFanPage/Models/Driver.cs" Line="11" Column="1" />
-      <File FileName="FormulaOneFanPage/Models/Team.cs" Line="7" Column="48" />
-      <File FileName="FormulaOneFanPage/Data/MainContext.cs" Line="15" Column="57" />
-      <File FileName="FormulaOneFanPage/Startup.cs" Line="25" Column="64" />
-      <File FileName="FormulaOneFanPage/appsettings.json" Line="3" Column="116" />
-      <File FileName="FormulaOneFanPage/Program.cs" Line="22" Column="59" />
+      <File FileName="FormulaOneFanPage/Models/Driver.cs" />
+      <File FileName="FormulaOneFanPage/Models/Team.cs" />
+      <File FileName="FormulaOneFanPage/Data/MainContext.cs" />
+      <File FileName="FormulaOneFanPage/Startup.cs" />
+      <File FileName="FormulaOneFanPage/appsettings.json" />
+      <File FileName="FormulaOneFanPage/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

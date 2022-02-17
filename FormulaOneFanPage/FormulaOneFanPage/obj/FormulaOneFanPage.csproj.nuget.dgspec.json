@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kimberlykonings/Projects/FormulaOneFanPage/FormulaOneFanPage/FormulaOneFanPage.csproj": {}
+    "/Users/kimberlykonings/Documents/GitHub/Formula-One-Fan-Page/FormulaOneFanPage/FormulaOneFanPage/FormulaOneFanPage.csproj": {}
   },
   "projects": {
-    "/Users/kimberlykonings/Projects/FormulaOneFanPage/FormulaOneFanPage/FormulaOneFanPage.csproj": {
+    "/Users/kimberlykonings/Documents/GitHub/Formula-One-Fan-Page/FormulaOneFanPage/FormulaOneFanPage/FormulaOneFanPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kimberlykonings/Projects/FormulaOneFanPage/FormulaOneFanPage/FormulaOneFanPage.csproj",
+        "projectUniqueName": "/Users/kimberlykonings/Documents/GitHub/Formula-One-Fan-Page/FormulaOneFanPage/FormulaOneFanPage/FormulaOneFanPage.csproj",
         "projectName": "FormulaOneFanPage",
-        "projectPath": "/Users/kimberlykonings/Projects/FormulaOneFanPage/FormulaOneFanPage/FormulaOneFanPage.csproj",
+        "projectPath": "/Users/kimberlykonings/Documents/GitHub/Formula-One-Fan-Page/FormulaOneFanPage/FormulaOneFanPage/FormulaOneFanPage.csproj",
         "packagesPath": "/Users/kimberlykonings/.nuget/packages/",
-        "outputPath": "/Users/kimberlykonings/Projects/FormulaOneFanPage/FormulaOneFanPage/obj/",
+        "outputPath": "/Users/kimberlykonings/Documents/GitHub/Formula-One-Fan-Page/FormulaOneFanPage/FormulaOneFanPage/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kimberlykonings/.config/NuGet/NuGet.Config"
