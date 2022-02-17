@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C319023F-ED5E-4256-A46A-FBE2732CDC0E}|Default">
+  <MonoDevelop.Ide.ItemProperties.FormulaOneFanPage PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormulaOneFanPage/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="FormulaOneFanPage/Data/DbInitializer.cs" Line="24" Column="45" IsPinned="True" />
+      <File FileName="FormulaOneFanPage/Views/Shared/_Layout.cshtml" Line="11" Column="13" />
+      <File FileName="FormulaOneFanPage/Views/Home/Index.cshtml" Line="13" Column="30" />
+      <File FileName="FormulaOneFanPage/Models/Driver.cs" Line="11" Column="1" />
+      <File FileName="FormulaOneFanPage/Models/Team.cs" Line="7" Column="48" />
+      <File FileName="FormulaOneFanPage/Data/MainContext.cs" Line="15" Column="57" />
+      <File FileName="FormulaOneFanPage/Startup.cs" Line="25" Column="64" />
+      <File FileName="FormulaOneFanPage/appsettings.json" Line="3" Column="116" />
+      <File FileName="FormulaOneFanPage/Program.cs" Line="22" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FormulaOneFanPage" expanded="True">
+            <Node name="FormulaOneFanPage" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
