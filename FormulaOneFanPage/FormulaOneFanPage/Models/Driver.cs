@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace FormulaOneFanPage.Models {
     public class Driver {
@@ -12,6 +13,7 @@ namespace FormulaOneFanPage.Models {
         public string Description { get; set; }
         public int Championships { get; set; }
 
-        public Team Team { get; set; }
+        [ForeignKey("TeamId")]
+        public virtual Team Team { get; set; }
     }
 }

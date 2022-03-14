@@ -5,7 +5,7 @@ using System.Linq;
 namespace FormulaOneFanPage.Data {
     public static class DbInitializer {
         public static void Initialize(MainContext context) {
-            context.Database.EnsureCreated();
+            //context.Database.EnsureCreated();
 
             // Look for any Drivers
             if (context.Drivers.Any()) {

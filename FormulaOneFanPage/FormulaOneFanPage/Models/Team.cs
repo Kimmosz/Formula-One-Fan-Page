@@ -7,6 +7,6 @@ namespace FormulaOneFanPage.Models {
         public string Description { get; set; }
         public int Championships { get; set; }
 
-        public Driver[] Drivers { get; set; }
+        //public Driver[] Drivers { get; set; }
     }
 }

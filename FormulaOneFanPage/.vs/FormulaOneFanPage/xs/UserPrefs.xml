@@ -1,28 +1,30 @@
 ﻿<Properties StartupConfiguration="{C319023F-ED5E-4256-A46A-FBE2732CDC0E}|Default">
   <MonoDevelop.Ide.ItemProperties.FormulaOneFanPage PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FormulaOneFanPage/Views/Home/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormulaOneFanPage/Controllers/DriversController.cs">
     <Files>
       <File FileName="FormulaOneFanPage/Data/DbInitializer.cs" Line="24" Column="45" IsPinned="True" />
-      <File FileName="FormulaOneFanPage/Views/Shared/_Layout.cshtml" />
-      <File FileName="FormulaOneFanPage/Views/Home/Index.cshtml" Line="13" Column="30" />
-      <File FileName="FormulaOneFanPage/Models/Driver.cs" />
-      <File FileName="FormulaOneFanPage/Models/Team.cs" />
-      <File FileName="FormulaOneFanPage/Data/MainContext.cs" />
-      <File FileName="FormulaOneFanPage/Startup.cs" />
-      <File FileName="FormulaOneFanPage/appsettings.json" />
-      <File FileName="FormulaOneFanPage/Program.cs" />
+      <File FileName="FormulaOneFanPage/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="FormulaOneFanPage/Program.cs" Line="24" Column="51" />
+      <File FileName="FormulaOneFanPage/Views/Home/Index.cshtml" Line="18" Column="1" />
+      <File FileName="FormulaOneFanPage/Models/Driver.cs" Line="1" Column="1" />
+      <File FileName="FormulaOneFanPage/Models/Team.cs" Line="1" Column="1" />
+      <File FileName="FormulaOneFanPage/Data/MainContext.cs" Line="7" Column="83" />
+      <File FileName="FormulaOneFanPage/Startup.cs" Line="24" Column="76" />
+      <File FileName="FormulaOneFanPage/Controllers/DriversController.cs" Line="19" Column="19" />
+      <File FileName="FormulaOneFanPage/Views/Drivers/Create.cshtml" Line="8" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FormulaOneFanPage" expanded="True">
             <Node name="FormulaOneFanPage" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="DriversController.cs" selected="True" />
+              </Node>
               <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
+                <Node name="Drivers" expanded="True" />
               </Node>
             </Node>
           </Node>
